@@ -1,6 +1,5 @@
 fastapi
 uvicorn
-numpy
-opencv-python
 tensorflow
-python-dotenv
+opencv-python-headless
+ultralytics
